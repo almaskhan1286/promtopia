@@ -1,5 +1,5 @@
-Certainly! Below is a sample README file for the "promtopia" project, including sections for installation and usage instructions:
 
+![Promtopia Screenshot](/public/assets/images/Promptopia.png)
 ```markdown
 # Promtopia
 
